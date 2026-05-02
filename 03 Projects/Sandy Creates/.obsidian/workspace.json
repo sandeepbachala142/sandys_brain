@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "c8ccfde5feb8cf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "10eadf096a672549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559f2ba67c103f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Ideas/Food After Coming to India.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Food After Coming to India"
+            }
+          },
+          {
+            "id": "2e416b44fe4c50fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f2c61fae51be312",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed884d0584ee4c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb66cab55d9b1ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0466f9bc1651995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2998eaf027a1c010",
+    "type": "split",
+    "children": [
+      {
+        "id": "286c59ec8425cbd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488a8172bd4329ff",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "fd3f302a3ed04120",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLAUDE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CLAUDE"
+            }
+          },
+          {
+            "id": "fddfab21f7911a70",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 612.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "terminal:Open terminal": false,
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2e416b44fe4c50fa",
+  "lastOpenFiles": [
+    "COMMANDS.md",
+    "CLAUDE.md",
+    "(C) Video Dashboard.md",
+    "(C) Video Dashboard.md.tmp.21932.1777719012233",
+    "01 Scripts/Unfinished/(C) Food Script.md",
+    "00 Ideas/Food After Coming to India.md",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md",
+    "01 Scripts/Unfinished/(C) Nanna Script.md",
+    "01 Scripts/Unfinished/(C) Amma Script.md",
+    "00 Ideas/Family - Amma.md",
+    "01 Scripts/Unfinished/(C) Amma and Nanna Script.md",
+    "00 Ideas/(C) Idea Bank - Quick Ideas.md",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.21932.1777715497842",
+    "01 Scripts/Unfinished",
+    "(C) Video Dashboard.md.tmp.21932.1777714376961",
+    "00 Ideas/Friends Gang - Smule Story.md",
+    "00 Ideas/Friends Gang - Smule Story.md.tmp.21932.1777714345201",
+    "00 Ideas/Two Types of People - Chaos vs Quiet.md",
+    "00 Ideas/Skiplag.md",
+    "00 Ideas/What Is My Niche.md",
+    "00 Ideas/Camping in the US.md",
+    "00 Ideas/Should I Move Back.md",
+    "00 Ideas/Motivation - Life Problems Are Common.md",
+    "00 Ideas/Video With Wife.md",
+    "00 Ideas/Friends - Missing Them.md",
+    "00 Ideas/I Lost My Job.md",
+    "00 Ideas/How Much Money Do You Need.md",
+    "00 Ideas/Devotion - Spiritual Change.md",
+    "00 Ideas/Events - Missing India.md",
+    "00 Ideas/Perfectionism.md",
+    "04 System/(C) Sandy's Voice Guide.md",
+    "03 Projects/Sandy Creates/04 System",
+    "01 Scripts/Finished/What about House_ part -1_.docx",
+    "01 Scripts/Finished/US ravala vaddha_.docx",
+    "01 Scripts/Finished/shipping container.docx",
+    "01 Scripts/Finished/shipping container 2.docx",
+    "06 Attachments/try15FINAL.jpeg",
+    "06 Attachments/try13FINAL.jpeg",
+    "06 Attachments/try12FINAL.jpeg",
+    "06 Attachments/Screenshot 2026-03-25 at 10.28.29 AM.png",
+    "06 Attachments/Screenshot 2026-03-25 at 5.12.05 PM.png",
+    "06 Attachments/Screenshot 2026-03-25 at 5.12.22 PM.png",
+    "06 Attachments/Screenshot 2026-03-25 at 5.13.07 PM.png",
+    "06 Attachments/Screenshot 2026-03-25 at 5.13.21 PM.png",
+    "06 Attachments/Screenshot 2026-03-25 at 4.12.47 PM.png"
+  ]
+}

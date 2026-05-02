@@ -1,0 +1,23 @@
+# Node modules (inside plugins)
+node_modules/
+
+# Mac junk
+.DS_Store
+
+# Obsidian workspace state (machine-specific, not worth syncing)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+**/workspace.json
+
+# Claudian plugin (has its own embedded git repo — exclude to avoid submodule issues)
+**/.obsidian/plugins/claudian/
+.obsidian/plugins/claudian/
+
+# Claudian session data (internal tool state, not needed in backup)
+.claudian/
+**/.claude/
+
+# Env files (keep secrets out)
+.env
+.env.local
+.env.local.example
