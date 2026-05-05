@@ -1,9 +1,12 @@
 {
+  "claude": {
+    "cliPath": "C:\\Users\\Sandy\\AppData\\Roaming\\npm\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
+  },
   "tabManagerState": {
     "openTabs": [
       {
         "tabId": "tab-1777629302815-09vd0wa",
-        "conversationId": "conv-1777629372608-l65fvrj0r"
+        "conversationId": "conv-1777877842018-heconhm02"
       }
     ],
     "activeTabId": "tab-1777629302815-09vd0wa"
