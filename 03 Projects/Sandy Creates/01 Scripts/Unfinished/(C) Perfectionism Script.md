@@ -29,12 +29,12 @@ idea-file: "[[00 Ideas/Perfectionism]]"
 "Prathi video chese mundhu okate feeling."
 
 "Ee video perfect ga undali… lighting sari ga undali… cheppedhi perfect ga undali…
-lekapothe janalu chuddaru ani."
+lekapothe janalu chuddaru ane oka feeling."
 
 *(soft laugh)*
 
-"Anni correct ga chesukoni, anni perfect ga chusukoni, appudu chesthanu ani
-wait chesthunna… wait chesthunna…"
+"Anni correct ga chesukoni, anni perfect ga chusukoni, appudu cheddhamu ani
+wait chesthunna…"
 
 *(pause)*
 
@@ -55,7 +55,7 @@ wait chesthunna… wait chesthunna…"
 
 *(chinna pause)*
 
-"Kani… thousands lo chustunnaru."
+"Kani… chala mandhi chustunnaru."
 
 ---
 
@@ -96,7 +96,7 @@ cheyyakunda aagipotham."
 
 "Perfection anedhi starting lo ne radhu…"
 
-"Slow ga… slow ga… vasthundhi."
+"Slow ga… slow ga… Mana experience and learnings tho develop avuthundhi."
 
 *(soft smile)*
 
@@ -109,7 +109,7 @@ cheyyakunda aagipotham."
 
 "Miru kuda ila feel ayyara??"
 
-"Oka pani start cheyyali ani… perfect avvadam ledu ani aagipoyara??"
+"Oka pani start cheyyali ani… anni perfect ayyaka start cheddham ani aagipoyara??"
 
 "Comment box lo cheppandi… atleast nenu okkadine kaadhu koncham happy feel avutha." 😄
 

@@ -79,7 +79,7 @@ idea-file: "[[00 Ideas/Food After Coming to India]]"
 ## CTA
 *(Warm, fun)*
 
-"Miru india ki vasthe 1 month ki entha weight gain avutharu??"
+"Miru india ki vasthe 1 month ki casual ga entha weight gain avutharu??"
 
 *(pause)*
 
