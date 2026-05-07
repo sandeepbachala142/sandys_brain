@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(C) Video Dashboard.md",
+                "file": "00 Ideas/Food After Coming to India.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(C) Video Dashboard"
+              "title": "Food After Coming to India"
+            }
+          },
+          {
+            "id": "2e416b44fe4c50fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Scripts/Unfinished/(C) Corporate Life Script.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(C) Corporate Life Script"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "01 Scripts/Unfinished/(C) Perfectionism Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLAUDE"
+              "title": "Outgoing links from (C) Perfectionism Script"
             }
           },
           {
@@ -110,52 +126,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "claudian:Open Claudian": false,
       "terminal:Open terminal": false,
+      "claudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559f2ba67c103f02",
+  "active": "488a8172bd4329ff",
   "lastOpenFiles": [
-    "00 Ideas/How Much Money Do You Need.md",
-    "00 Ideas/Family - Amma.md",
-    "00 Ideas/Camping in the US.md",
-    "01 Scripts/Unfinished/(C) Food Script.md",
+    "04 System/(C) Instagram Audit - May 2026.md",
+    "(C) Video Dashboard.md.tmp.21600.1778069218207",
+    "01 Scripts/Finished/(C) Food Script.md",
+    "(C) Video Dashboard.md",
+    "01 Scripts/Unfinished/(C) Corporate Life Script.md",
+    "00 Ideas/Corporate Life - Job to Freedom.md",
+    "00 Ideas/Corporate Life - Job to Freedom.md.tmp.21600.1778069089316",
     "01 Scripts/Unfinished/(C) Perfectionism Script.md",
-    "01 Scripts/Unfinished/(C) B-Roll Strategy - Food Video.md",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md",
-    "01 Scripts/Unfinished/(C) Food Script.md.tmp.24032.1777894722435",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md.tmp.24032.1777886182064",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md.tmp.24032.1777886180224",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md.tmp.24032.1777886036788",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md.tmp.24032.1777886034627",
-    "01 Scripts/Unfinished/(C) Food Video - English Subtitles.md.tmp.24032.1777884249937",
     "05 Skills/(C) Humor & Voice Guidelines.md",
-    "01 Scripts/Unfinished/(C) B-Roll Strategy - Food Video.md.tmp.24032.1777878534829",
-    "00 Ideas/Food After Coming to India.md",
+    "01 Scripts/Unfinished/(C) Amma Script.md",
+    "01 Scripts/Unfinished/(C) Food Script.md",
+    "01 Scripts/Unfinished/(C) Nanna Script.md",
+    "04 Journals/2026-05-02.md",
     "CLAUDE.md",
     "COMMANDS.md",
-    "(C) Video Dashboard.md",
     "(C) Video Dashboard.md.tmp.21932.1777719012233",
-    "01 Scripts/Unfinished/(C) Nanna Script.md",
-    "01 Scripts/Unfinished/(C) Amma Script.md",
+    "00 Ideas/Food After Coming to India.md",
+    "00 Ideas/Family - Amma.md",
     "01 Scripts/Unfinished/(C) Amma and Nanna Script.md",
     "00 Ideas/(C) Idea Bank - Quick Ideas.md",
     "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.21932.1777715497842",
     "01 Scripts/Unfinished",
+    "(C) Video Dashboard.md.tmp.21932.1777714376961",
     "00 Ideas/Friends Gang - Smule Story.md",
+    "00 Ideas/Friends Gang - Smule Story.md.tmp.21932.1777714345201",
     "00 Ideas/Two Types of People - Chaos vs Quiet.md",
     "00 Ideas/Skiplag.md",
     "00 Ideas/What Is My Niche.md",
+    "00 Ideas/Camping in the US.md",
     "00 Ideas/Should I Move Back.md",
     "00 Ideas/Motivation - Life Problems Are Common.md",
     "00 Ideas/Video With Wife.md",
     "00 Ideas/Friends - Missing Them.md",
-    "00 Ideas/I Lost My Job.md",
+    "03 Projects/Sandy Creates/04 System",
+    "01 Scripts/Finished/What about House_ part -1_.docx",
+    "01 Scripts/Finished/US ravala vaddha_.docx",
     "06 Attachments/try15FINAL.jpeg",
     "06 Attachments/try13FINAL.jpeg",
     "06 Attachments/try12FINAL.jpeg",

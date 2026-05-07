@@ -24,6 +24,11 @@ tags: [dashboard]
 - Skiplag — travel hack ⚠️ *needs more detail*
 - Two types of people — chaos vs quiet
 - Friends gang — Smule story, Michigan music friends
+- Silent video — Lucky running to grandparents
+- Silent video — First auto ride back
+- Silent video — Morning chai at Amma's house
+- Silent video — Sitting with parents doing nothing
+- Corporate Life — From prove chesukovali to peaceful life
 - + 22 more in [[00 Ideas/(C) Idea Bank - Quick Ideas]]
 
 ---
@@ -31,7 +36,7 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
-- 
+- Corporate Life — From prove chesukovali to peaceful life
 
 ---
 
@@ -41,14 +46,6 @@ tags: [dashboard]
 - Perfectionism — do we really need it?
 - Amma *(release at 10k milestone)*
 - Nanna *(release week after Amma)*
-- Food food food — weight gain after coming to India
-
----
-
-## 🎬 Filming
-> Script is done. Needs to be filmed.
-
-- 
 
 ---
 
@@ -87,3 +84,4 @@ tags: [dashboard]
 - US ravala vaddha?
 - What about House? Part 1
 - Financial Prep Part 1
+- Food food food ✅ *(posted 2026-05-03)*
