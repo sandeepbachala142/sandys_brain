@@ -61,6 +61,36 @@ The LVN is thin = price moves fast through it. Your target is the other end of t
 
 ---
 
+## Live Example — Yush Capital | PDH 29298
+
+**Subtitle:** *"Aggressive offer-lift above PDH carves the LVN · Sellers try to fade · Retest holds and buyers continue higher"*
+
+### Step by Step
+
+**① LVN carved by breakout**
+Thin volume gap existed on VP above PDH: 29298. Identified before the move.
+
+**② Aggression direction set**
+Green bubbles (90 + 97 contracts) aggressively lift through PDH. Price rockets through the LVN fast. Gap carved in real time.
+
+**③ Value forms on the other side**
+New HVN builds above the LVN. Price accepts higher. Old structure left below.
+
+**④ Sellers get aggressive to fade the move**
+93 + 199 red bubbles — sellers trying to push back below PDH. The fade attempt.
+
+**⑤ Retest holds · LVN defended**
+Price only pulls back to 29285–29290 (upper edge of LVN). Despite 292 contracts of selling — price holds. Buyers reclaim. Continuation to H: 29349.50.
+
+**Entry:** Step 5 — when sellers fail at the LVN edge
+**Stop:** Below the LVN (29278)
+**Target:** Next HVN above (29349.50)
+
+### The Key Insight
+> Sellers fired 292 contracts into the LVN and got nothing. No volume shelf beneath them. They immediately became trapped. Their covering powered the continuation.
+
+---
+
 ## Key Concepts
 
 **HVN (High Volume Node):** Area of heavy trading activity — acts as a magnet and support/resistance
