@@ -139,3 +139,8 @@ and performance analytics. Goal: $10k/month consistently for 5 months.
 **Status:** Just created
 Instagram Reels and future YouTube channel — life vlogs, personal growth, and the 
 USA→India transition story. Real, relatable, soft and energetic. Goal: 1M followers.
+
+### Financials — `03 Projects/Financials/`
+**Status:** Just created
+Complete personal financial picture — loans, credit cards, US and India properties,
+savings, expenses, and goals. One place to track everything and stay on top of it.
