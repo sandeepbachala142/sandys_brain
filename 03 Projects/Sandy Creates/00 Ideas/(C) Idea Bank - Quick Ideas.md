@@ -20,7 +20,6 @@ These are stub ideas that need more thought before becoming full scripts.
 - **RNOR tax status** — informational, post-return tax status explained
 - **Message to NRIs** — moving back is not an overnight decision, 4 years in the making
 - **What's your dream?** — philosophical, gets audience thinking
-- **Bank accounts and SSN after the move** — already have a finished script on this, could do updated version
 - **Term insurance** — informational
 - **NRI account** — banking info
 - **Brokerage accounts in USA** — already covered, could do part 2

@@ -28,7 +28,6 @@ tags: [dashboard]
 - Silent video — First auto ride back
 - Silent video — Morning chai at Amma's house
 - Silent video — Sitting with parents doing nothing
-- Corporate Life — From prove chesukovali to peaceful life
 - + 22 more in [[00 Ideas/(C) Idea Bank - Quick Ideas]]
 
 ---
@@ -36,7 +35,7 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
-- Corporate Life — From prove chesukovali to peaceful life
+- Term Insurance
 
 ---
 
@@ -85,3 +84,8 @@ tags: [dashboard]
 - What about House? Part 1
 - Financial Prep Part 1
 - Food food food ✅ *(posted 2026-05-03)*
+- Corporate Life — From prove chesukovali to peaceful life ✅ *(posted 2026-05-19)*
+- Day In My Life — India Edition ✅ *(posted 2026-05-19)*
+- Digital India ✅ *(posted 2026-06-17)*
+- Kuppam to Hyderabad — The Move Vlog ✅ *(posted 2026-06-18)*
+- Life Update — Hyderabad Move ✅ *(posted 2026-06-21)*

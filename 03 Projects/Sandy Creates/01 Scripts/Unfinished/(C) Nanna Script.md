@@ -15,7 +15,7 @@ milestone: release after Amma video at 10k
 ## HOOK
 *(Camera on face, easy smile)*
 
-"He is my nanna..."
+"Meet my nanna..."
 
 *(chinna pause)*
 
@@ -55,12 +55,16 @@ Anthendhuku
 
 "That's my nanna."
 
+Lucky gaditho nenu time spend chesthunnappudu, and vadi life ela untundho ani aalochisthunnappudu, anipisthu untundhi.. maa nanna kuda naa chinnappudu naa gurinchi ilane aalochinchuntaru kadha ani... 
+
+
+
 ---
 
 ## ENDING
 *(Quiet, genuine)*
 
-"Meeru mee nanna gurinchi aalochinchagane... miku gurthocchindhi enti??"
+"Meeru mee nanna gurinchi aalochinchagane... miku first gurthocchindhi enti??"
 
 "Comment box lo cheppandi." ❤️
 

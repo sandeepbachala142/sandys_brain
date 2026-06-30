@@ -1,6 +1,7 @@
 ---
 tags: [script, india, digital, nri-life]
-status: unfinished
+status: posted
+posted: 2026-06-17
 ---
 
 # Digital India
@@ -14,7 +15,7 @@ status: unfinished
 ## HOOK
 *(Direct to camera)*
 
-"US nunchi india ki vasthunnappudu, kontha mandhi chepparu..."
+"US nunchi india ki vasthunnappudu, konni vinnanu..."
 
 *(pause)*
 

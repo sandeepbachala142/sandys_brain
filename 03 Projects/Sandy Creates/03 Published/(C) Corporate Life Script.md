@@ -1,6 +1,7 @@
 ---
 tags: [script, career, freedom, personal]
-status: unfinished
+status: posted
+posted: 2026-05-19
 idea-file: "[[00 Ideas/Corporate Life - Job to Freedom]]"
 ---
 

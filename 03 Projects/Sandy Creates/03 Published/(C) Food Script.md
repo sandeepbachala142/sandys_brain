@@ -1,6 +1,7 @@
 ---
 tags: [script, food, fun, india]
-status: unfinished
+status: posted
+posted: 2026-05-03
 idea-file: "[[00 Ideas/Food After Coming to India]]"
 ---
 
