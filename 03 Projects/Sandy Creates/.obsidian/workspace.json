@@ -4,41 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "10eadf096a672549",
+        "id": "38b8107a3988d894",
         "type": "tabs",
         "children": [
           {
-            "id": "559f2ba67c103f02",
+            "id": "4a0dd153b5afe4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Ideas/Food After Coming to India.md",
+                "file": "01 Scripts/Unfinished/(C) Should I Move Back Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Food After Coming to India"
+              "title": "(C) Should I Move Back Script"
             }
           },
           {
-            "id": "2e416b44fe4c50fa",
+            "id": "15a90bbbad5d16ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Scripts/Unfinished/(C) Corporate Life Script.md",
+                "file": "01 Scripts/Unfinished/(C) Moving Back Realities Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(C) Corporate Life Script"
+              "title": "(C) Moving Back Realities Script"
+            }
+          },
+          {
+            "id": "81d48a19841a1c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(C) Video Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(C) Video Dashboard"
+            }
+          },
+          {
+            "id": "97dfc719b3d9f30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Scripts/Unfinished/(C) Perfectionism Script.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(C) Perfectionism Script"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -58,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -104,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Scripts/Unfinished/(C) Perfectionism Script.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (C) Perfectionism Script"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -126,53 +158,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "terminal:Open terminal": false,
       "claudian:Open Claudian": false,
+      "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "488a8172bd4329ff",
+  "active": "97dfc719b3d9f30c",
   "lastOpenFiles": [
-    "04 System/(C) Instagram Audit - May 2026.md",
-    "(C) Video Dashboard.md.tmp.21600.1778069218207",
-    "01 Scripts/Finished/(C) Food Script.md",
-    "(C) Video Dashboard.md",
-    "01 Scripts/Unfinished/(C) Corporate Life Script.md",
-    "00 Ideas/Corporate Life - Job to Freedom.md",
-    "00 Ideas/Corporate Life - Job to Freedom.md.tmp.21600.1778069089316",
-    "01 Scripts/Unfinished/(C) Perfectionism Script.md",
-    "05 Skills/(C) Humor & Voice Guidelines.md",
     "01 Scripts/Unfinished/(C) Amma Script.md",
-    "01 Scripts/Unfinished/(C) Food Script.md",
+    "01 Scripts/Unfinished/(C) Camping Script.md",
+    "01 Scripts/Unfinished/(C) Lucky Birthday Script.md",
     "01 Scripts/Unfinished/(C) Nanna Script.md",
-    "04 Journals/2026-05-02.md",
-    "CLAUDE.md",
-    "COMMANDS.md",
-    "(C) Video Dashboard.md.tmp.21932.1777719012233",
-    "00 Ideas/Food After Coming to India.md",
-    "00 Ideas/Family - Amma.md",
-    "01 Scripts/Unfinished/(C) Amma and Nanna Script.md",
-    "00 Ideas/(C) Idea Bank - Quick Ideas.md",
-    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.21932.1777715497842",
-    "01 Scripts/Unfinished",
-    "(C) Video Dashboard.md.tmp.21932.1777714376961",
-    "00 Ideas/Friends Gang - Smule Story.md",
-    "00 Ideas/Friends Gang - Smule Story.md.tmp.21932.1777714345201",
-    "00 Ideas/Two Types of People - Chaos vs Quiet.md",
-    "00 Ideas/Skiplag.md",
-    "00 Ideas/What Is My Niche.md",
-    "00 Ideas/Camping in the US.md",
-    "00 Ideas/Should I Move Back.md",
+    "01 Scripts/Unfinished/(C) The Day We Decided to Move Back Script.md",
+    "(C) Video Dashboard.md.tmp.24660.1786010322289",
+    "(C) Video Dashboard.md.tmp.24660.1786010321198",
+    "00 Ideas/Two Way Door Theory.md",
+    "(C) Video Dashboard.md.tmp.24660.1785902654790",
+    "(C) Video Dashboard.md.tmp.24660.1785902650386",
+    "01 Scripts/Unfinished/(C) US to India Shipping Script.md",
+    "03 Published/(C) US to India Shipping Script.md",
+    "01 Scripts/Unfinished/(C) Should I Move Back Script.md",
+    "01 Scripts/Unfinished/(C) The Day We Decided to Move Back Script.md.tmp.24660.1785357921916",
+    "(C) Video Dashboard.md.tmp.24660.1785357763347",
+    "(C) Video Dashboard.md.tmp.24660.1785357762092",
+    "(C) Video Dashboard.md",
+    "(C) Video Dashboard.md.tmp.24660.1785350237352",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md",
+    "(C) Video Dashboard.md.tmp.6176.1785068824942",
+    "03 Published/(C) Badminton Script.md.tmp.6176.1785068823450",
+    "00 Ideas/Perfectionism.md",
+    "01 Scripts/Unfinished/(C) Badminton Script.md",
+    "03 Published/(C) Badminton Script.md",
     "00 Ideas/Motivation - Life Problems Are Common.md",
-    "00 Ideas/Video With Wife.md",
+    "01 Scripts/Unfinished/(C) Moving Back Realities Script.md",
+    "03 Published/(C) Moving Back Realities Script.md",
+    "00 Ideas/Should I Move Back.md",
+    "00 Ideas/Skiplag.md",
+    "01 Scripts/Unfinished/(C) I'm Back Script.md",
     "00 Ideas/Friends - Missing Them.md",
-    "03 Projects/Sandy Creates/04 System",
-    "01 Scripts/Finished/What about House_ part -1_.docx",
-    "01 Scripts/Finished/US ravala vaddha_.docx",
+    "00 Ideas/Family - Amma.md",
+    "00 Ideas/Friends Gang - Smule Story.md",
+    "01 Scripts/Unfinished/(C) Term Insurance Script.md",
+    "03 Published/(C) Term Insurance Script.md",
+    "00 Ideas/Video With Wife.md",
     "06 Attachments/try15FINAL.jpeg",
     "06 Attachments/try13FINAL.jpeg",
     "06 Attachments/try12FINAL.jpeg",

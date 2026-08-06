@@ -2,8 +2,8 @@
 tags: [financials, loan, upgrade, negotiation]
 type: loan
 lender: Upgrade / Cross River Bank
-status: paying-minimums
-last-updated: 2026-06-13
+status: stopped-paying
+last-updated: 2026-08-06
 ---
 
 # Roof/Home Improvement Loan — Upgrade
@@ -34,21 +34,21 @@ last-updated: 2026-06-13
 | Item | Info |
 |------|------|
 | Target Settlement | $7,500 |
-| Current Plan | Paying minimums for **at least 3 months** to protect credit score |
-| Hardship Email Sent | April 27, 2026 |
-| Upgrade Response | Offered hardship plan — phone enrollment required |
-| Final Reply Sent | "Cannot pay anything" |
-| Then Resumed | Paying minimums to keep credit clean for card usage |
+| Hardship Email Sent | ~August 2026 — stated job loss, cannot afford payments |
+| Upgrade Response | Called — said cannot waive loan due to hardship |
+| Hardship Plan Offered | Must pay **30% of balance (~$5,200)** — declined, not feasible |
+| Current Status | 🔴 **Stopped paying. Letting it default. Will negotiate settlement later.** |
 
 ## Status
 
-- **Paying minimums now** (June 2026 → ~September 2026 at minimum)
-- Reason: protect credit score to use credit cards freely for India purchases
-- After minimum period → **stop paying + execute settlement**
-- APR is brutal at 29.49% — settlement at $7,500 saves ~$10,000
+- **Stopped paying as of August 2026**
+- Upgrade called, offered hardship plan — 30% of balance (~$5,200) required. Not doable.
+- Their hardship plan is not a real option. Letting it age toward settlement.
+- Next contact: wait for them to escalate (collections, charge-off) — that's when real settlement offers come
 
 ## Notes
 
 - Unsecured confirmed from TIL document — no risk to house
 - 29.49% APR makes this the most expensive loan per dollar
-- Settlement window: after credit score protection period ends (~Sept 2026)
+- Best settlement leverage comes after 90–180 days of non-payment — they get desperate
+- Do NOT agree to any payment plan under ~40 cents on the dollar ($7,000 max)

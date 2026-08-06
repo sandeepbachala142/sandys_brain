@@ -2,8 +2,8 @@
 tags: [financials, loan, affirm, negotiation]
 type: loan
 lender: Affirm
-status: awaiting-response
-last-updated: 2026-06-13
+status: stopped-paying
+last-updated: 2026-08-06
 ---
 
 # Personal Loan — Affirm
@@ -28,13 +28,13 @@ last-updated: 2026-06-13
 | Item | Info |
 |------|------|
 | Target Settlement | $2,000 |
-| Hardship Email Sent | April 27, 2026 |
-| Current Status | **Paying minimums for at least 3 months** (June → ~Sept 2026) |
-| Reason | Protect credit score to use credit cards freely for India purchases |
+| Hardship Email Sent | August 2026 — stated job loss, cannot afford payments |
+| Current Status | 🔴 **Stopped paying as of August 2026** |
+| Next Step | Wait for escalation/charge-off → negotiate settlement |
 
 ## Notes
 
-- Smallest of the three unsecured loans
+- Smallest of the three unsecured loans — likely to settle quickly once in default
 - Settlement target of $2,000 = ~33 cents on the dollar
-- Paying minimums now to keep credit clean — settlement after ~Sept 2026
-- No hardship response received yet — follow up after the minimum period
+- No response to hardship email yet
+- Affirm is generally more flexible than traditional banks — may settle fast

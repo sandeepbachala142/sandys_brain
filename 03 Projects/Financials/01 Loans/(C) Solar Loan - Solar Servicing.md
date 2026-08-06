@@ -2,8 +2,8 @@
 tags: [financials, loan, solar, negotiation, cfpb]
 type: loan
 lender: Solar Servicing LLC
-status: in-negotiation
-last-updated: 2026-06-13
+status: stopped-paying
+last-updated: 2026-08-06
 ---
 
 # Solar Loan — Solar Servicing LLC
@@ -52,18 +52,19 @@ last-updated: 2026-06-13
 | April 27, 2026 | Hardship email sent | ✅ Done |
 | April 29, 2026 | CFPB complaint filed vs Solar Mosaic/Solar Servicing | ✅ Done |
 | May 22, 2026 | Olive Advisors response received | ✅ Done — redirected |
-| May 22, 2026 | Solar Servicing emails drafted | ✅ Ready to send |
-| TBD | Send emails to Solar Servicing | 🔴 Pending |
-| TBD | Update CFPB complaint feedback | 🔴 Pending |
-| TBD | File new CFPB complaint directly vs Solar Servicing | 🟡 This week |
+| May 22, 2026 | Solar Servicing emails drafted | ✅ Done |
+| ~August 2026 | CFPB response — cannot avoid the loan | ✅ Received |
+| August 2026 | Hardship email sent — stated job loss | ✅ Done |
+| August 2026 | Stopped paying | 🔴 Active |
+| TBD | Wait for default/charge-off → negotiate settlement | ⏳ Pending |
 
 ## Notes
 
-- **New tenant is paying the $126/month solar loan payment** — this is currently off Sandy's plate
-- Monthly payment being made = loan stays current while CFPB/settlement strategy plays out
-- Solar Mosaic bankruptcy = leverage. FTC Holder Rule means Solar Servicing inherited all of Mosaic's liabilities.
+- **CFPB route exhausted — they said the loan cannot be avoided**
+- FTC Holder Rule angle did not result in discharge — pivot to default + settlement
+- Hardship email sent citing job loss — no payment going forward
+- Solar Mosaic bankruptcy still gives some leverage in settlement conversation
 - NO liens on property confirmed via Collin County Appraisal District records.
-- Avoid paying $2,500 upfront to any law firm — correctly flagged as suspicious.
-- Use CFPB route (free) over expensive lawyers.
+- Do NOT pay any upfront fees to law firms — still flagged as suspicious.
 
-> ⚠️ Note: Tenant paying the loan keeps it current — this may affect the hardship/settlement angle. Something to consider when engaging Solar Servicing.
+> ✅ Confirmed: Tenant is no longer paying the solar loan. All payments stopped as of August 2026 — loan is actively defaulting.

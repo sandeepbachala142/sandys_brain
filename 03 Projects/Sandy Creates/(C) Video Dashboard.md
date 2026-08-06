@@ -28,6 +28,7 @@ tags: [dashboard]
 - Silent video — First auto ride back
 - Silent video — Morning chai at Amma's house
 - Silent video — Sitting with parents doing nothing
+- Two Way Door Theory
 - + 22 more in [[00 Ideas/(C) Idea Bank - Quick Ideas]]
 
 ---
@@ -35,7 +36,9 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
-- Term Insurance
+- Should I Move Back? — Responding to DMs
+- The Day We Decided to Move Back
+
 
 ---
 
@@ -51,7 +54,7 @@ tags: [dashboard]
 ## ✂️ Editing
 > Filmed. Now in editing.
 
-- 
+- Lucky's Birthday — 4 Years & First Time with Family
 
 ---
 
@@ -89,3 +92,7 @@ tags: [dashboard]
 - Digital India ✅ *(posted 2026-06-17)*
 - Kuppam to Hyderabad — The Move Vlog ✅ *(posted 2026-06-18)*
 - Life Update — Hyderabad Move ✅ *(posted 2026-06-21)*
+- Term Insurance ✅ *(posted 2026-06-21)*
+- Moving Back to India — What I Wish I Knew ✅ *(posted 2026-07-22)*
+- Badminton — Pursuing the Skills I Always Wanted ✅ *(posted 2026-07-26)*
+- US to India — Complete Shipment Guide ✅ *(posted 2026-08-05)*

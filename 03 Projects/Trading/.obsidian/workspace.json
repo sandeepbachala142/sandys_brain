@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d74b10559186ee7e",
+        "id": "3ebd11e79d8d3e13",
         "type": "tabs",
         "children": [
           {
-            "id": "822a770075dd5ead",
+            "id": "8148ec61ac8ab4fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "2998eaf027a1c010",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "dea35dad175b1da5",
+            "id": "d66d9f883caf5665",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 859.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -104,47 +104,50 @@
   },
   "active": "488a8172bd4329ff",
   "lastOpenFiles": [
+    "00 Strategies & Knowledge/(C) Yush - Chart Examples Log.md",
+    "00 Strategies & Knowledge/(C) Yush - Absorption Playbook.md",
     "00 Strategies & Knowledge/(C) ICT-Volume Profile Playbook.md",
-    "03 Projects/Trading/00 Strategies & Knowledge/(C) ICT-Volume Profile Playbook.md",
-    "03 Projects/Trading/00 Strategies & Knowledge",
-    "03 Projects/Trading",
-    "03 Projects",
+    "00 Strategies & Knowledge/(C) Yush - LAF LBF Model Playbook.md",
+    "00 Strategies & Knowledge/(C) Yush - Counter Trend Entry Model.md",
+    "00 Strategies & Knowledge/(C) Yush - LAF LBF Exact Examples.md",
+    "02 Trade Journal/(C) May 14 2026 - Trade Review.md",
+    "02 Trade Journal/(C) May 14 2026 - Trade Review.md.tmp.21232.1778745684296",
+    "00 Strategies & Knowledge/(C) Yush - LVN Model Playbook.md.tmp.21232.1778742451772",
+    "00 Strategies & Knowledge/(C) Yush - LAF LBF Exact Examples.md.tmp.21232.1778741843084",
+    "00 Strategies & Knowledge/(C) Yush - LAF LBF Exact Examples.md.tmp.21232.1778741769718",
+    "03 Analytics/(C) Mistake Tracker - Live.md",
+    "02 Trade Journal/(C) May 13 2026 - Trade Review.md",
+    "00 Strategies & Knowledge/(C) Yush - Trading Rules & Process.md",
+    "00 Strategies & Knowledge/(C) Yush - Volume Profile Deep Dive.md",
+    "00 Strategies & Knowledge/(C) Yush - Master Index.md",
+    "00 Strategies & Knowledge/(C) Yush - Premarket Process.md",
+    "00 Strategies & Knowledge/(C) Yush - Delta Profile & Tape Reading.md",
+    "00 Strategies & Knowledge/(C) Unified NQ Trading System.md",
+    "00 Strategies & Knowledge/(C) Yush - Volume Profile Foundations.md",
+    "00 Strategies & Knowledge/(C) Yush - Volume Profile Foundations.md.tmp.21792.1778134093613",
+    "00 Strategies & Knowledge/(C) Yush - LVN Model Playbook.md",
+    "00 Strategies & Knowledge/(C) Footprint & Orderflow Reading.md",
+    "00 Strategies & Knowledge/(C) ICT & PJ Concepts Reference.md",
+    "07 Iteration Logs/(C) Apr 2026 - Week 1 Iteration Log.md",
+    "03 Analytics/(C) Mistake Pattern Report - Apr 2026.md",
+    "02 Trade Journal/(C) Week Apr 27-29 2026.md",
     "34.md",
     "Untitled.md",
     "01 Vids In Progress/AI Second Brain/Body Content.md",
     "01 Vids In Progress/AI Second Brain/Packaging/Untitled 1.md",
-    "01 Vids In Progress/AI Second Brain/Packaging/Intro.md",
-    "01 Vids In Progress/AI Second Brain/Packaging/Title.md",
-    "01 Vids In Progress/AI Second Brain/Packaging/Thumbnails.md",
     "06 Attachments/try15FINAL.jpeg",
     "06 Attachments/try13FINAL.jpeg",
     "06 Attachments/try12FINAL.jpeg",
-    "COMMANDS.md",
-    "04 System/(C) YouTube Tag Research.md",
-    "04 System/Video Research Process (V1).md",
-    "01 Vids In Progress/AI Second Brain/VID MIRO LINK.md",
-    "01 Vids In Progress/AI Second Brain/Research/Research Video Links.md",
-    "05 Skills/(C) Packaging Research Skill.md",
     "06 Attachments/Screenshot 2026-03-25 at 10.28.29 AM.png",
     "06 Attachments/Screenshot 2026-03-25 at 5.12.05 PM.png",
     "06 Attachments/Screenshot 2026-03-25 at 5.12.22 PM.png",
     "06 Attachments/Screenshot 2026-03-25 at 5.13.07 PM.png",
     "06 Attachments/Screenshot 2026-03-25 at 5.13.21 PM.png",
-    "CLAUDE.md",
     "01 Vids In Progress/AI Second Brain/Research/(C) Packaging Research.html",
-    "05 Skills/(C) Packaging Research Generator.md",
     "04 System/(C) packaging_research.py",
-    "05 Skills/(C) Thumbnail Comparison Generator.md",
     "01 Vids In Progress/AI Second Brain/Research/(C) Competitor Research.html",
     "01 Vids In Progress/AI Second Brain/Research/(C) Thumbnail Comparison.html",
     "04 System/(C) thumbnail_comparison.py",
-    "06 Attachments/Screenshot 2026-03-25 at 4.12.47 PM.png",
-    "05 Skills/Thumbnail Comparison Generator.md",
-    "01 Vids In Progress/AI Second Brain/Research/Competitor Research.pdf",
-    "03 Iteration Logs/Cowork Masterclass.md",
-    "01 Vids In Progress/AI Second Brain/Research/Thumbnail Comparison.html",
-    "05 Skills/Competitor Research.md",
-    "05 Skills/Competitor Research PDF.md",
-    "00 Vid Ideas/AI Website OR Sales page design.md"
+    "06 Attachments/Screenshot 2026-03-25 at 4.12.47 PM.png"
   ]
 }

@@ -1,6 +1,7 @@
 ---
 tags: [script, finance, term-insurance, nri, india]
-status: unfinished
+status: posted
+posted: 2026-06-21
 ---
 
 # Term Insurance
