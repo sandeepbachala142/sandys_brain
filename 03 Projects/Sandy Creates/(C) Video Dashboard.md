@@ -36,6 +36,7 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
+- Amma 2
 - Should I Move Back? — Responding to DMs
 - The Day We Decided to Move Back
 
@@ -54,7 +55,7 @@ tags: [dashboard]
 ## ✂️ Editing
 > Filmed. Now in editing.
 
-- Lucky's Birthday — 4 Years & First Time with Family
+- 
 
 ---
 
@@ -96,3 +97,7 @@ tags: [dashboard]
 - Moving Back to India — What I Wish I Knew ✅ *(posted 2026-07-22)*
 - Badminton — Pursuing the Skills I Always Wanted ✅ *(posted 2026-07-26)*
 - US to India — Complete Shipment Guide ✅ *(posted 2026-08-05)*
+- Is Adjusting Really Saving You Money? ✅ *(posted 2026-08-16)*
+- Lucky's Birthday — 4 Years & First Time with Family ✅ *(posted 2026-08-16)*
+- I Lost My Dream Job ✅ *(posted 2026-08-26)* 🔥 *226k views · 4.8k likes · 2.6k shares · 1000+ followers*
+- 10K — I Called It Before I Even Started ✅ *(posted 2026-08-30)*

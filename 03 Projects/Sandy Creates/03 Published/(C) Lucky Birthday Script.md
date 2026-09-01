@@ -1,6 +1,7 @@
 ---
 tags: [script, family, lucky, birthday, personal]
-status: unfinished
+status: posted
+posted: 2026-08-16
 ---
 
 # Lucky's Birthday — 4 Years & First Time with Family
@@ -43,9 +44,9 @@ Nijam ga cheppali ante, lucky gadiki kuda intha family undhi anipinchindhi..
 
 "Necklace road antha oka round yesi, 
 
-rendu cakes thisukoni,  mana sandeep kishan resturant Vivaha bojanambu ki velipoyam"
+rendu cakes thisukoni,  oka manchi resturent  ki velipoyam"
 
-"Full ga thini cake cutting chesam"
+"Manchiga ga thini cake cutting chesam"
 
 "Oka roju... rendu generations... rendu birthdays."
 
@@ -56,6 +57,8 @@ rendu cakes thisukoni,  mana sandeep kishan resturant Vivaha bojanambu ki velipo
 "Celebrating some occasions with family is worth it. 
 miru prapancham lo ekkada unna, appudappudu ayina try cheyyandi... 
 Its completely worth it"
+
+Maa journey ni follow avvali ante, Follow button kottandi.. 
 
 "See you all in the next one." 🙂
 

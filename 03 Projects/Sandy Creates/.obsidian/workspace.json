@@ -13,52 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Scripts/Unfinished/(C) Should I Move Back Script.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "(C) Should I Move Back Script"
-            }
-          },
-          {
-            "id": "15a90bbbad5d16ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Scripts/Unfinished/(C) Moving Back Realities Script.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "(C) Moving Back Realities Script"
-            }
-          },
-          {
-            "id": "81d48a19841a1c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(C) Video Dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "(C) Video Dashboard"
-            }
-          },
-          {
-            "id": "97dfc719b3d9f30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Scripts/Unfinished/(C) Perfectionism Script.md",
+                "file": "01 Scripts/Pillar 1 - Mindset & Value/(C) Perfectionism Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -67,8 +22,7 @@
               "title": "(C) Perfectionism Script"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,44 +121,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97dfc719b3d9f30c",
+  "active": "4a0dd153b5afe4e4",
   "lastOpenFiles": [
-    "01 Scripts/Unfinished/(C) Amma Script.md",
-    "01 Scripts/Unfinished/(C) Camping Script.md",
-    "01 Scripts/Unfinished/(C) Lucky Birthday Script.md",
-    "01 Scripts/Unfinished/(C) Nanna Script.md",
-    "01 Scripts/Unfinished/(C) The Day We Decided to Move Back Script.md",
-    "(C) Video Dashboard.md.tmp.24660.1786010322289",
-    "(C) Video Dashboard.md.tmp.24660.1786010321198",
-    "00 Ideas/Two Way Door Theory.md",
-    "(C) Video Dashboard.md.tmp.24660.1785902654790",
-    "(C) Video Dashboard.md.tmp.24660.1785902650386",
-    "01 Scripts/Unfinished/(C) US to India Shipping Script.md",
-    "03 Published/(C) US to India Shipping Script.md",
-    "01 Scripts/Unfinished/(C) Should I Move Back Script.md",
-    "01 Scripts/Unfinished/(C) The Day We Decided to Move Back Script.md.tmp.24660.1785357921916",
-    "(C) Video Dashboard.md.tmp.24660.1785357763347",
-    "(C) Video Dashboard.md.tmp.24660.1785357762092",
-    "(C) Video Dashboard.md",
-    "(C) Video Dashboard.md.tmp.24660.1785350237352",
+    "01 Scripts/Pillar 2 - Life Stories/(C) The Day We Decided to Move Back Script.md",
+    "01 Scripts/Pillar 1 - Mindset & Value/(C) Perfectionism Script.md",
+    "01 Scripts/Pillar 2 - Life Stories/(C) Camping Script.md",
     "01 Scripts/Unfinished/(C) Perfectionism Script.md",
-    "(C) Video Dashboard.md.tmp.6176.1785068824942",
-    "03 Published/(C) Badminton Script.md.tmp.6176.1785068823450",
-    "00 Ideas/Perfectionism.md",
-    "01 Scripts/Unfinished/(C) Badminton Script.md",
-    "03 Published/(C) Badminton Script.md",
-    "00 Ideas/Motivation - Life Problems Are Common.md",
-    "01 Scripts/Unfinished/(C) Moving Back Realities Script.md",
-    "03 Published/(C) Moving Back Realities Script.md",
-    "00 Ideas/Should I Move Back.md",
-    "00 Ideas/Skiplag.md",
-    "01 Scripts/Unfinished/(C) I'm Back Script.md",
+    "01 Scripts/Pillar 3 - My Life Now/(C) Nanna Script.md",
+    "01 Scripts/Pillar 3 - My Life Now/(C) Amma 2 Script.md",
+    "01 Scripts/Pillar 3 - My Life Now/(C) Amma Script.md",
+    "01 Scripts/Pillar 2 - Life Stories/(C) Should I Move Back Script.md",
+    "01 Scripts/Pillar 3 - My Life Now",
+    "01 Scripts/Pillar 2 - Life Stories",
+    "01 Scripts/Pillar 1 - Mindset & Value",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.29176.1788169664046",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.29176.1788169653620",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.29176.1788168916166",
+    "01 Scripts/Unfinished/(C) Perfectionism Script.md.tmp.29176.1788168899163",
+    "01 Scripts/Unfinished/(C) Should I Move Back Script.md",
+    "01 Scripts/Unfinished/(C) Amma 2 Script.md",
+    "01 Scripts/Unfinished/(C) Amma Script.md",
+    "(C) Video Dashboard.md.tmp.29176.1788102440289",
     "00 Ideas/Friends - Missing Them.md",
+    "00 Ideas/How Much Money Do You Need.md",
+    "00 Ideas/I Lost My Job.md",
+    "01 Scripts/Unfinished/(C) Nanna Script.md",
     "00 Ideas/Family - Amma.md",
-    "00 Ideas/Friends Gang - Smule Story.md",
-    "01 Scripts/Unfinished/(C) Term Insurance Script.md",
-    "03 Published/(C) Term Insurance Script.md",
-    "00 Ideas/Video With Wife.md",
+    "00 Ideas/Corporate Life - Job to Freedom.md",
+    "(C) Video Dashboard.md.tmp.29176.1788101846439",
+    "01 Scripts/Unfinished/(C) 10k Milestone Script.md",
+    "03 Published/(C) 10k Milestone Script.md",
+    "01 Scripts/Unfinished/(C) 10k Milestone Script.md.tmp.29176.1787858851549",
+    "02 In Production/(C) I Lost My Dream Job Script.md",
+    "03 Published/(C) I Lost My Dream Job Script.md",
+    "(C) Video Dashboard.md",
+    "01 Scripts/Unfinished/(C) I Lost My Dream Job Script.md",
+    "01 Scripts/Unfinished/(C) The Day We Decided to Move Back Script.md",
+    "03 Published/(C) Lucky Birthday Script.md",
+    "01 Scripts/Unfinished/(C) Lucky Birthday Script.md",
     "06 Attachments/try15FINAL.jpeg",
     "06 Attachments/try13FINAL.jpeg",
     "06 Attachments/try12FINAL.jpeg",
