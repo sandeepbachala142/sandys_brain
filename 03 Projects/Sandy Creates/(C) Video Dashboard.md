@@ -36,6 +36,8 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
+- How to Invest in US Stocks — Beginner Guide
+- Life Update — Slow Life, Real Moments
 - Amma 2
 - Should I Move Back? — Responding to DMs
 - The Day We Decided to Move Back
@@ -46,8 +48,7 @@ tags: [dashboard]
 ## 🎬 Filming
 > Script is done. Needs to be filmed.
 
-- Perfectionism — do we really need it?
-- Amma *(release at 10k milestone)*
+- Amma *(10k milestone passed — ready)*
 - Nanna *(release week after Amma)*
 
 ---
@@ -101,3 +102,4 @@ tags: [dashboard]
 - Lucky's Birthday — 4 Years & First Time with Family ✅ *(posted 2026-08-16)*
 - I Lost My Dream Job ✅ *(posted 2026-08-26)* 🔥 *226k views · 4.8k likes · 2.6k shares · 1000+ followers*
 - 10K — I Called It Before I Even Started ✅ *(posted 2026-08-30)*
+- Perfectionism — Do We Really Need It? ✅ *(posted 2026-09-10)*

@@ -15,9 +15,9 @@ idea-file: "[[00 Ideas/Perfectionism]]"
 ## HOOK
 *(Camera on face, direct eye contact)*
 
-"Miru eppudaina oka pani start cheyyadaniki, anni perfect ga set chesukoni start cheddham anukoni, or perfect time kosam wait chesthu aagipoyara?"
+"Edhaina oka kottha pani start cheyyadaniki or nerchukodaniki, next monday start cheddhamano or anni perfect ga set chesukoni start cheddham ani aagipoyina valla kosam ee video "
 
-"Ayithe ee video mikosame."
+
 
 ---
 
@@ -28,7 +28,7 @@ idea-file: "[[00 Ideas/Perfectionism]]"
 
 "Next monday nunchi start chesi picchekkiddham ani..."
 
-"Kani adhe monday vacchaka, oka table vacchaka kurchundham, manchi monitor ni set chesukoni kurchundham, intlo koncham situations anni set ayyaka kurchundham ani chala mandhi aagipothuntam"
+"Kani adhe monday vacchaka, oka table vacchaka kurchundham, manchi monitor ni set chesukoni kurchundham, intlo koncham situations anni set ayyaka kurcho chadavali ani chala mandhi aagipothuntam"
 
 *(soft laugh)*
 
@@ -41,18 +41,19 @@ idea-file: "[[00 Ideas/Perfectionism]]"
 
 Content creation start cheyyali ani, nenu konni years nunchi anukuntunna... 
 
-kani first manchi camera ani, tarvatha manchi place set chesukundham ani, tarvatha manchi time kavali ani, anukuntu anukuntu post pone chesukuntuneee vaccha. 
+kani first manchi camera ani, tarvatha  place ani, tarvatha manchi time kavali ani, anukuntu anukuntu post pone chesukuntuneee vaccha. 
 
 kani let me tell you guys something.
 
 "That is not perfectionism... its just how we fool ourself"
 
-oka kottha pani start chesthunnam ante, we are coming out of our comfortability zone. and aa comfortability zone ni avoid cheyyadaniki mana brain continuous ga excuses isthune untundhi
+oka kottha pani start chesthunna or nerchukuntunna, we are coming out of our comfort zone. and aa uncomfortable zone ni avoid cheyyadaniki mana brain tension padipoyi continuous ga ee excuses isthune untundhi. because we are used to that comfort zone and we dont want to come out of it. 
 
 
-Now let me tell you what i did... 
 
-first i wanted to become comfortable in it. so naa phone thisi naa life ni just record chestu undevadini, dhaniki perfect moments avasaram ledhu... i dont need to show it to anyone..  and one day, i was ok with it and is started my first video.
+so nenem chesevadini ante... 
+
+videos record cheyyadam lo comfortable avadaniki, naa phone thisi naa life ni just record chestu undevadini, dhaniki perfect moments avasaram ledhu... and adhi nenu evariki chupinchanavasarm ledhu..  one day, i was ok with it and started my first video.
 
 ---
 
@@ -60,15 +61,15 @@ first i wanted to become comfortable in it. so naa phone thisi naa life ni just 
 *(Not preachy — just honest)*
 
 
-So nenu cheppedhentant, 
+So nenu cheppedhentante, 
 
-"First… DO it."
+"miredhaina cheyyali anukunte, JUST start it."
 
-**Ee video kuda perfect kaadu… kani meeru chustunnaru kadha**
-
-"It will never be perfect."
+"There will never be a perfect time to start."
 
 "Perfection anedhi  mana experience and learnings tho develop avuthundhi."
+
+So JUST casual ga Start cheyyandi. get comfortable with it, and then master it.  
 
 
 ---
@@ -76,9 +77,9 @@ So nenu cheppedhentant,
 ## CTA
 *(Direct, warm)*
 
-"Miru eppudaina ila feel ayyara??  perfect ayyaka start cheddham ani aagipoyara??"
+"Miru eppudaina  perfect time vacchaka start cheddham ani aagipoyara??"
 
-"Comment box oka emoji padeyandi… mitho patu entha mandhi unnaro miku thelusthundhi." 😄
+"Comment box lo cheppandi… mitho patu entha mandhi unnaro miku thelusthundhi." 😄
 
 "See you in the next one."
 
