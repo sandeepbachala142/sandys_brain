@@ -11,7 +11,6 @@ These are stub ideas that need more thought before becoming full scripts.
 - **Talk to yourself** — self-improvement video
 - **Friends + music brings back memories** — nostalgia angle
 - **OPT students wanting to return** — pay your loan first before moving back
-- **How to crack an interview** — practical tips
 - **What is husband and wife love?** — relationship philosophy
 - **Manifestation** — Sandy's take on it
 - **Why content creation now?** — why this is the right time to start

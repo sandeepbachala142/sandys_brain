@@ -1,6 +1,7 @@
 ---
 tags: [script, life-update, personal, vlog, pillar3]
-status: unfinished
+status: published
+published: 2026-09-21
 ---
 
 # Life Update — Slow Life, Real Moments
@@ -14,18 +15,18 @@ status: unfinished
 ## HOOK
 *(Relaxed, direct to camera)*
 
-"Life update icchi chala rojulaindhi..."
+"Hyderabad ki move ayithe more than 100 days ayyindhi"
 
-"Lets me show you what is actually happening."
+"Lets me tell you how life is"
 
 ---
 
 ## THE SLOW LIFE
 *(Light, self-aware — not complaining, just real)*
 
-"Life chala chala slow ayyindhi..."
+"Life chala  slow ayipoyindhi..."
 
-"Morning late ga levadam, gym ki velladam, TV chudadam..."
+"Morning late ga levadam, gym ki velladam,  "
 
 "Lucky tho PS5 aadadam, bayata thiragadam..."
 
@@ -35,9 +36,9 @@ status: unfinished
 
 *(small smile)*
 
-"US lo unnappudu — same process, same time ki jaragali ane system lo undevadini."
+"US lo unnappudu — same process, same time ki jaragali ane oka system lo undevadini."
 
-"Ippudu... edhi eppudu cheyyocchu ani nenu set chesukuntunna."
+"Ippudu... edhi eppudu cheyyali ani nene set chesukuntunna."
 
 ---
 
@@ -46,7 +47,7 @@ status: unfinished
 
 "Konni konni moments matram baga enjoy chesthunna..."
 
-"Independence Day ki Lucky gadiki Subhash Chandra Bose costume vesi school ki vellthe..."
+"Monna Independence Day ki Lucky gadiki Subhash Chandra Bose costume vesi school ki thisukellinappudu..."
 
 *(pause)*
 
@@ -59,7 +60,7 @@ status: unfinished
 
 "Monna naa wife birthday ki... 2 days oka glamping place ki velipoyam."
 
-"City nunchi dhooram ga... no traffic sounds..."
+"City nunchi dhooram ga... no traffic , no sounds..."
 
 "Only pure nature."
 
@@ -77,12 +78,14 @@ status: unfinished
 
 ---
 
+prasthuthaniki just mana apartment complete avvadam kosam ala wait chesthunnam....  anthe... 
+
+anni bagane unnay gani, konni health issues valla koncham disturb ayyam... dhani valle gym kuda aapalsi vacchindhi
+but hey life ante ups and downs anni undali ga.. prathi sari happy ga unte kuda bore kottesthundhi... so enni issues vacchina chala strong ga nilabaduthunnam... and naa wife thanu inka strong ga nilabaduthundhi... 
 ## ENDING
 *(Warm, simple)*
 
-"Ila undhi naa life ippudu..."
-
-"Miru follow avvakapothe follow button kottandi."
+"channel ni follow avvakapothe follow button kotti pettandi."
 
 "See you all in the next one." 🙂
 

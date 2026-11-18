@@ -8,3 +8,5 @@ tags: [lines, quotes, hooks, ideas]
 ---
 
 - "No one gets jealous of you if you are broke."
+- kastamainadhi istam lekapoyina chesetappudu, istamaindhi cheyyadaniki endhuku kastapadatham
+- 

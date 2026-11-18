@@ -1,6 +1,7 @@
 ---
 tags: [script, finance, stocks, nri, investing, USA]
-status: unfinished
+status: published
+published: 2026-09-21
 ---
 
 # US lo Stocks lo Invest Ela Cheyyali — Complete Beginner Guide

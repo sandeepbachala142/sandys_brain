@@ -43,7 +43,7 @@ last-updated: 2026-06-13
 
 | Detail | Info |
 |--------|------|
-| Servicer | LoanCare |
+| Servicer | ~~LoanCare~~ → **Rocket Mortgage** (transferred) |
 | Loan Number | xxxx9435 |
 | Payoff Amount | $320,395.19 |
 | Monthly Payment | $1,991.98 |

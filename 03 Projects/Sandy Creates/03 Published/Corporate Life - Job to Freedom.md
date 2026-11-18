@@ -1,6 +1,7 @@
 ---
 tags: [idea, career, freedom, personal]
-status: idea
+status: published
+published: 2026-10-05
 ---
 
 # Corporate Life — From Job to Freedom

@@ -1,12 +1,12 @@
 ---
 tags: [financials, loan, mortgage, priority-1]
 type: loan
-lender: LoanCare
+lender: Rocket Mortgage
 status: current
-last-updated: 2026-06-13
+last-updated: 2026-11-09
 ---
 
-# Mortgage — LoanCare
+# Mortgage — Rocket Mortgage (formerly LoanCare)
 
 > **Priority #1 — Must always be paid. Non-negotiable.**
 
@@ -14,15 +14,15 @@ last-updated: 2026-06-13
 
 | Detail | Info |
 |--------|------|
-| Servicer | LoanCare |
+| Servicer | **Rocket Mortgage** (transferred from LoanCare) |
 | Loan Number | xxxx9435 |
 | Type | Conventional Fixed |
 | Monthly Payment | $1,991.98 |
 | Payoff Amount | $320,395.19 |
 | Payments Remaining | 315 months (~26 years) |
 | Equity | ~$41,230 |
-| Status | ✅ Being paid — covered by rental income |
-| Contact | Via LoanCare portal |
+| Status | ⚠️ Tenant vacated Nov 1, 2026 — no rental income |
+| Contact | rocketmortgage.com / (800) 508-0944 |
 
 ## Property
 
@@ -30,8 +30,9 @@ last-updated: 2026-06-13
 
 ## Notes
 
-- Rental income ($2,600/month) was covering this
-- **Tenants vacated May 22, 2026 — property currently vacant**
-- Need new tenant urgently or this becomes a problem fast
-- Notify LoanCare about rental arrangement (action item — this month)
-- LoanCare does not know property is rented — should they?
+- Rental income ($2,500/month) was covering this — **now gone**
+- **Jarquez Shells & Briana Thompson vacated Nov 1, 2026** — said they can't afford the house
+- Andika (Showstopper) cleaning/repairing property (~$2,000 cost, covered by deposit)
+- Inquired about forbearance — Rocket Mortgage handles hardship assistance at (800) 508-0944
+- Property is a rental — forbearance harder to get than primary residence
+- Servicer transfer: LoanCare → Rocket Mortgage (via MyCoverageInfo.com)

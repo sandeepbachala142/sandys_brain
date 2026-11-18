@@ -36,8 +36,7 @@ tags: [dashboard]
 ## ✍️ Scripting
 > Actively working on the script with Claude.
 
-- How to Invest in US Stocks — Beginner Guide
-- Life Update — Slow Life, Real Moments
+- Deepak — True Friend
 - Amma 2
 - Should I Move Back? — Responding to DMs
 - The Day We Decided to Move Back
@@ -103,3 +102,5 @@ tags: [dashboard]
 - I Lost My Dream Job ✅ *(posted 2026-08-26)* 🔥 *226k views · 4.8k likes · 2.6k shares · 1000+ followers*
 - 10K — I Called It Before I Even Started ✅ *(posted 2026-08-30)*
 - Perfectionism — Do We Really Need It? ✅ *(posted 2026-09-10)*
+- How to Invest in US Stocks — Beginner Guide ✅ *(posted 2026-10-09)*
+- Life Update — Slow Life, Real Moments ✅ *(posted 2026-10-09)*
